@@ -23,4 +23,7 @@ Follow like, share, and subscribe https://www.youtube.com/@Bioinformatics_Made_E
 ![pca_plot](https://github.com/user-attachments/assets/bbcc313f-9ba6-40ea-9bb8-ace0d6af5440)
 
 
+Part 2: Gene Expression Analysis Heatmap top 50 genes in R: https://github.com/futureomics/Gene-Expression-Analysis-Heatmap_top_50_genes-in-R_Part-2/tree/main
+
+
 
