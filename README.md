@@ -1,4 +1,7 @@
+**Gene Expression Analysis with Data Normalization in R_Part 1**
+
 Gene expression analysis plays a vital role in unraveling biological processes and disease mechanisms. Using R programming to analyze gene expression datasets with a strong emphasis on data normalization—a critical step to ensure reliable and interpretable results.
+
 Understanding gene expression data is crucial in genomics research—from identifying disease biomarkers to tracking therapeutic response.
 
 Follow like, share, and subscribe https://www.youtube.com/@Bioinformatics_Made_Easy
